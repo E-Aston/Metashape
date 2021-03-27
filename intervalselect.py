@@ -1,3 +1,6 @@
+# Selects cameras in the GUI based on a user-input selection step. Useful for selecting photos at regular intervals to trim down photosets. Start by disabling all photos
+# in the chunk, then run the script. Enable the cameras selected as a result.  
+
 import Metashape
 
 doc = Metashape.app.document
