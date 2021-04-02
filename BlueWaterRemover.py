@@ -1,3 +1,6 @@
+# Cleans the dense cloud of the active chunk to remove dead points associated with blue water. 
+# Save the document beforehand in case parts of the mesh are deleted
+
 import Metashape
 
 
